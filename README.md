@@ -1,2 +1,2 @@
-# Anhang-BTH-FS-2024-GN
-Anhang zur Bachelor Thesis FS 2024
+# Anhang zur Bachelor Thesis FS 2024
+Hier können die Rohdaten der Umfrage zur Bachelor Thesis FS 2024 heruntergeladen werden. Zudem befindet sich der R-Code im RMD-File, welcher zur Auswertung der Ergebnisse verwendet wurde. Dieses Repository ist archiviert und wird nicht weiter gepflegt. Die Bachelor Thesis mit dem Namen "Analyse und Vergleich von Methoden zur Er-stellung von Deepfakes: Ein Fokus auf Text-to-Image-Prompts und DeepFaceLab" kann bei der Berner Fachhochschule BFH zur Einsicht eingefordert werden.
